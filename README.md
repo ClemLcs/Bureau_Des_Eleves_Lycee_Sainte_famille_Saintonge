@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Site BDE Lycée Sainte Famille Saintonge / Web Site of BDE of High School Sainte Famille Saintonge
 
 Bonjour et bienvenue sur le dépot github du site du BDE du Lycée Sainte Famille Saintonge, lycée passerelle au coeur de Bordeaux.
@@ -132,6 +132,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 Le cadre Laravel est un logiciel libre sous licence du [license MIT](https://opensource.org/licenses/MIT).
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
+
 # BureauDesEleves
 >>>>>>> 209357749a5e1927f793b11247a285b30c926710
