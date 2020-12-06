@@ -1,0 +1,63 @@
+.container-contact, .container-liens, .container-informations{
+    margin: auto;
+    padding: 41px;
+}
+
+.container-contact h2{
+    text-transform: uppercase;
+}
+
+
+.container-contact p{
+    margin: 1em 0;
+    padding: 0;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+
+.container-contact .img-adress{
+    float: left;
+    width: 25%;
+}
+
+.container-contact .img-tel{
+    float: left;
+    position: relative;
+    left: -70px;
+}
+
+.container-contact .tel{
+    position: relative;
+    top: 15px;
+    left: -25px;
+}
+
+.container-contact .img-send{
+    float: left;
+    position: relative;
+    left: -95px;
+    top: 15px;
+}
+
+.container-contact .send{
+    position: relative;
+    top: 35px;
+    left: -50px;
+}
+
+.container-liens a{
+    margin: 1em 0;
+    padding: 0;
+    font-size: 15px;
+    line-height: 54px;
+    text-transform: uppercase;
+}
+
+.container-informations p{
+    margin: 1em 0;
+    padding: 0;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: uppercase;
+}
